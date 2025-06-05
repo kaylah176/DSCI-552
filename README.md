@@ -1,4 +1,4 @@
-# DSCI 552: Machine Learning for Data Science (Fall 2022)
+# DSCI 552: Machine Learning for Data Science (Spring 2025)
 
 Practical applications of machine learning techniques to real-world problems. Uses in data mining and recommendation systems and for building adaptive user interfaces.
 
